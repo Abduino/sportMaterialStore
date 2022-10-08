@@ -1,0 +1,76 @@
+c:\users\sebahadin\documents\visual studio 2015\Projects\sportScienceAcademySoftware\sportScienceAcademySoftware\bin\Debug\sportScienceAcademySoftware.pdb
+c:\users\sebahadin\documents\visual studio 2015\Projects\sportScienceAcademySoftware\sportScienceAcademySoftware\obj\Debug\sportScienceAcademySoftware.csprojResolveAssemblyReference.cache
+c:\users\sebahadin\documents\visual studio 2015\Projects\sportScienceAcademySoftware\sportScienceAcademySoftware\obj\Debug\sportScienceAcademySoftware.Properties.Resources.resources
+c:\users\sebahadin\documents\visual studio 2015\Projects\sportScienceAcademySoftware\sportScienceAcademySoftware\obj\Debug\sportScienceAcademySoftware.csproj.GenerateResource.Cache
+c:\users\sebahadin\documents\visual studio 2015\Projects\sportScienceAcademySoftware\sportScienceAcademySoftware\obj\Debug\sportScienceAcademySoftware.pdb
+C:\Users\sebahadin\Documents\Visual Studio 2015\Projects\sportScienceAcademySoftware\sportScienceAcademySoftware\bin\Debug\sportScienceAcademySoftware.exe.config
+C:\Users\sebahadin\Documents\Visual Studio 2015\Projects\sportScienceAcademySoftware\sportScienceAcademySoftware\bin\Debug\sportScienceAcademySoftware.exe
+C:\Users\sebahadin\Documents\Visual Studio 2015\Projects\sportScienceAcademySoftware\sportScienceAcademySoftware\obj\Debug\sportScienceAcademySoftware.exe
+C:\Users\sebahadin\Documents\Visual Studio 2015\Projects\sportScienceAcademySoftware\sportScienceAcademySoftware\obj\Debug\sportScienceAcademySoftware.Form1.resources
+C:\Users\sebahadin\Documents\Visual Studio 2015\Projects\sportScienceAcademySoftware\sportScienceAcademySoftware\obj\Debug\sportScienceAcademySoftware.main.resources
+C:\Users\sebahadin\Documents\Visual Studio 2015\Projects\sportScienceAcademySoftware\sportScienceAcademySoftware\obj\Debug\sportScienceAcademySoftware.login.resources
+C:\Users\sebahadin\Documents\Visual Studio 2015\Projects\sportScienceAcademySoftware\sportScienceAcademySoftware\obj\Debug\sportScienceAcademySoftware.splash.resources
+C:\Users\sebahadin\Documents\Visual Studio 2015\Projects\sportScienceAcademySoftware - Copy\sportScienceAcademySoftware\bin\Debug\sportScienceAcademySoftware.exe.config
+C:\Users\sebahadin\Documents\Visual Studio 2015\Projects\sportScienceAcademySoftware - Copy\sportScienceAcademySoftware\obj\Debug\sportScienceAcademySoftware.exe
+C:\Users\sebahadin\Documents\Visual Studio 2015\Projects\sportScienceAcademySoftware - Copy\sportScienceAcademySoftware\obj\Debug\sportScienceAcademySoftware.pdb
+C:\Users\sebahadin\Documents\Visual Studio 2015\Projects\sportScienceAcademySoftware - Copy\sportScienceAcademySoftware\bin\Debug\sportScienceAcademySoftware.exe
+C:\Users\sebahadin\Documents\Visual Studio 2015\Projects\sportScienceAcademySoftware - Copy\sportScienceAcademySoftware\bin\Debug\sportScienceAcademySoftware.pdb
+C:\Users\sebahadin\Documents\Visual Studio 2015\Projects\sportScienceAcademySoftware - Copy\sportScienceAcademySoftware\obj\Debug\sportScienceAcademySoftware.csprojResolveAssemblyReference.cache
+C:\Users\sebahadin\Documents\Visual Studio 2015\Projects\sportScienceAcademySoftware - Copy\sportScienceAcademySoftware\obj\Debug\sportScienceAcademySoftware.Form1.resources
+C:\Users\sebahadin\Documents\Visual Studio 2015\Projects\sportScienceAcademySoftware - Copy\sportScienceAcademySoftware\obj\Debug\sportScienceAcademySoftware.Form2.resources
+C:\Users\sebahadin\Documents\Visual Studio 2015\Projects\sportScienceAcademySoftware - Copy\sportScienceAcademySoftware\obj\Debug\sportScienceAcademySoftware.login.resources
+C:\Users\sebahadin\Documents\Visual Studio 2015\Projects\sportScienceAcademySoftware - Copy\sportScienceAcademySoftware\obj\Debug\sportScienceAcademySoftware.main.resources
+C:\Users\sebahadin\Documents\Visual Studio 2015\Projects\sportScienceAcademySoftware - Copy\sportScienceAcademySoftware\obj\Debug\sportScienceAcademySoftware.splash.resources
+C:\Users\sebahadin\Documents\Visual Studio 2015\Projects\sportScienceAcademySoftware - Copy\sportScienceAcademySoftware\obj\Debug\sportScienceAcademySoftware.Properties.Resources.resources
+C:\Users\sebahadin\Documents\Visual Studio 2015\Projects\sportScienceAcademySoftware - Copy\sportScienceAcademySoftware\obj\Debug\sportScienceAcademySoftware.csproj.GenerateResource.Cache
+C:\Users\sebahadin\Documents\Visual Studio 2015\Projects\sportScienceAcademySoftware - Copy - Copy\sportScienceAcademySoftware\bin\Debug\sportScienceAcademySoftware.exe.config
+C:\Users\sebahadin\Documents\Visual Studio 2015\Projects\sportScienceAcademySoftware - Copy - Copy\sportScienceAcademySoftware\obj\Debug\sportScienceAcademySoftware.exe
+C:\Users\sebahadin\Documents\Visual Studio 2015\Projects\sportScienceAcademySoftware - Copy - Copy\sportScienceAcademySoftware\obj\Debug\sportScienceAcademySoftware.pdb
+C:\Users\sebahadin\Documents\Visual Studio 2015\Projects\sportScienceAcademySoftware - Copy - Copy\sportScienceAcademySoftware\bin\Debug\sportScienceAcademySoftware.exe
+C:\Users\sebahadin\Documents\Visual Studio 2015\Projects\sportScienceAcademySoftware - Copy - Copy\sportScienceAcademySoftware\bin\Debug\sportScienceAcademySoftware.pdb
+C:\Users\sebahadin\Documents\Visual Studio 2015\Projects\sportScienceAcademySoftware - Copy - Copy\sportScienceAcademySoftware\obj\Debug\sportScienceAcademySoftware.csprojResolveAssemblyReference.cache
+C:\Users\sebahadin\Documents\Visual Studio 2015\Projects\sportScienceAcademySoftware - Copy - Copy\sportScienceAcademySoftware\obj\Debug\sportScienceAcademySoftware.Form1.resources
+C:\Users\sebahadin\Documents\Visual Studio 2015\Projects\sportScienceAcademySoftware - Copy - Copy\sportScienceAcademySoftware\obj\Debug\sportScienceAcademySoftware.Form2.resources
+C:\Users\sebahadin\Documents\Visual Studio 2015\Projects\sportScienceAcademySoftware - Copy - Copy\sportScienceAcademySoftware\obj\Debug\sportScienceAcademySoftware.login.resources
+C:\Users\sebahadin\Documents\Visual Studio 2015\Projects\sportScienceAcademySoftware - Copy - Copy\sportScienceAcademySoftware\obj\Debug\sportScienceAcademySoftware.main.resources
+C:\Users\sebahadin\Documents\Visual Studio 2015\Projects\sportScienceAcademySoftware - Copy - Copy\sportScienceAcademySoftware\obj\Debug\sportScienceAcademySoftware.splash.resources
+C:\Users\sebahadin\Documents\Visual Studio 2015\Projects\sportScienceAcademySoftware - Copy - Copy\sportScienceAcademySoftware\obj\Debug\sportScienceAcademySoftware.Properties.Resources.resources
+C:\Users\sebahadin\Documents\Visual Studio 2015\Projects\sportScienceAcademySoftware - Copy - Copy\sportScienceAcademySoftware\obj\Debug\sportScienceAcademySoftware.csproj.GenerateResource.Cache
+C:\Users\sebahadin\Documents\Visual Studio 2015\Projects\sportScienceAcademySoftware - Copy - Copy - Copy\sportScienceAcademySoftware\bin\Debug\sportScienceAcademySoftware.exe.config
+C:\Users\sebahadin\Documents\Visual Studio 2015\Projects\sportScienceAcademySoftware - Copy - Copy - Copy\sportScienceAcademySoftware\obj\Debug\sportScienceAcademySoftware.exe
+C:\Users\sebahadin\Documents\Visual Studio 2015\Projects\sportScienceAcademySoftware - Copy - Copy - Copy\sportScienceAcademySoftware\obj\Debug\sportScienceAcademySoftware.csprojResolveAssemblyReference.cache
+C:\Users\sebahadin\Documents\Visual Studio 2015\Projects\sportScienceAcademySoftware - Copy - Copy - Copy\sportScienceAcademySoftware\obj\Debug\sportScienceAcademySoftware.Form1.resources
+C:\Users\sebahadin\Documents\Visual Studio 2015\Projects\sportScienceAcademySoftware - Copy - Copy - Copy\sportScienceAcademySoftware\obj\Debug\sportScienceAcademySoftware.Form2.resources
+C:\Users\sebahadin\Documents\Visual Studio 2015\Projects\sportScienceAcademySoftware - Copy - Copy - Copy\sportScienceAcademySoftware\obj\Debug\sportScienceAcademySoftware.login.resources
+C:\Users\sebahadin\Documents\Visual Studio 2015\Projects\sportScienceAcademySoftware - Copy - Copy - Copy\sportScienceAcademySoftware\obj\Debug\sportScienceAcademySoftware.main.resources
+C:\Users\sebahadin\Documents\Visual Studio 2015\Projects\sportScienceAcademySoftware - Copy - Copy - Copy\sportScienceAcademySoftware\obj\Debug\sportScienceAcademySoftware.splash.resources
+C:\Users\sebahadin\Documents\Visual Studio 2015\Projects\sportScienceAcademySoftware - Copy - Copy - Copy\sportScienceAcademySoftware\obj\Debug\sportScienceAcademySoftware.Properties.Resources.resources
+C:\Users\sebahadin\Documents\Visual Studio 2015\Projects\sportScienceAcademySoftware - Copy - Copy - Copy\sportScienceAcademySoftware\obj\Debug\sportScienceAcademySoftware.csproj.GenerateResource.Cache
+C:\Users\sebahadin\Documents\Visual Studio 2015\Projects\sportScienceAcademySoftware - Copy - Copy - Copy\sportScienceAcademySoftware\bin\Debug\sportScienceAcademySoftware.exe
+C:\Users\sebahadin\Documents\Visual Studio 2015\Projects\sportScienceAcademySoftware - Copy - Copy - Copy\sportScienceAcademySoftware\bin\Debug\sportScienceAcademySoftware.pdb
+C:\Users\sebahadin\Documents\Visual Studio 2015\Projects\sportScienceAcademySoftware - Copy - Copy - Copy\sportScienceAcademySoftware\obj\Debug\sportScienceAcademySoftware.pdb
+C:\Users\sebahadin\Documents\Visual Studio 2015\Projects\sportScienceAcademySoftwareEdited\sportScienceAcademySoftware\bin\Debug\sportScienceAcademySoftware.exe.config
+C:\Users\sebahadin\Documents\Visual Studio 2015\Projects\sportScienceAcademySoftwareEdited\sportScienceAcademySoftware\obj\Debug\sportScienceAcademySoftware.exe
+C:\Users\sebahadin\Documents\Visual Studio 2015\Projects\sportScienceAcademySoftwareEdited\sportScienceAcademySoftware\obj\Debug\sportScienceAcademySoftware.pdb
+C:\Users\sebahadin\Documents\Visual Studio 2015\Projects\sportScienceAcademySoftwareEdited\sportScienceAcademySoftware\bin\Debug\sportScienceAcademySoftware.exe
+C:\Users\sebahadin\Documents\Visual Studio 2015\Projects\sportScienceAcademySoftwareEdited\sportScienceAcademySoftware\bin\Debug\sportScienceAcademySoftware.pdb
+C:\Users\sebahadin\Documents\Visual Studio 2015\Projects\sportScienceAcademySoftwareEdited\sportScienceAcademySoftware\obj\Debug\sportScienceAcademySoftware.csprojResolveAssemblyReference.cache
+C:\Users\sebahadin\Documents\Visual Studio 2015\Projects\sportScienceAcademySoftwareEdited\sportScienceAcademySoftware\obj\Debug\sportScienceAcademySoftware.login.resources
+C:\Users\sebahadin\Documents\Visual Studio 2015\Projects\sportScienceAcademySoftwareEdited\sportScienceAcademySoftware\obj\Debug\sportScienceAcademySoftware.main.resources
+C:\Users\sebahadin\Documents\Visual Studio 2015\Projects\sportScienceAcademySoftwareEdited\sportScienceAcademySoftware\obj\Debug\sportScienceAcademySoftware.splash.resources
+C:\Users\sebahadin\Documents\Visual Studio 2015\Projects\sportScienceAcademySoftwareEdited\sportScienceAcademySoftware\obj\Debug\sportScienceAcademySoftware.Properties.Resources.resources
+C:\Users\sebahadin\Documents\Visual Studio 2015\Projects\sportScienceAcademySoftwareEdited\sportScienceAcademySoftware\obj\Debug\sportScienceAcademySoftware.csproj.GenerateResource.Cache
+C:\Users\sebahadin\Documents\Visual Studio 2015\Projects\sportScienceAcademySW\sportScienceAcademySoftware\bin\Debug\sportScienceAcademySoftware.exe.config
+C:\Users\sebahadin\Documents\Visual Studio 2015\Projects\sportScienceAcademySW\sportScienceAcademySoftware\obj\Debug\sportScienceAcademySoftware.exe
+C:\Users\sebahadin\Documents\Visual Studio 2015\Projects\sportScienceAcademySW\sportScienceAcademySoftware\obj\Debug\sportScienceAcademySoftware.pdb
+C:\Users\sebahadin\Documents\Visual Studio 2015\Projects\sportScienceAcademySW\sportScienceAcademySoftware\bin\Debug\sportScienceAcademySoftware.exe
+C:\Users\sebahadin\Documents\Visual Studio 2015\Projects\sportScienceAcademySW\sportScienceAcademySoftware\bin\Debug\sportScienceAcademySoftware.pdb
+C:\Users\sebahadin\Documents\Visual Studio 2015\Projects\sportScienceAcademySW\sportScienceAcademySoftware\obj\Debug\sportScienceAcademySoftware.csprojResolveAssemblyReference.cache
+C:\Users\sebahadin\Documents\Visual Studio 2015\Projects\sportScienceAcademySW\sportScienceAcademySoftware\obj\Debug\sportScienceAcademySoftware.login.resources
+C:\Users\sebahadin\Documents\Visual Studio 2015\Projects\sportScienceAcademySW\sportScienceAcademySoftware\obj\Debug\sportScienceAcademySoftware.main.resources
+C:\Users\sebahadin\Documents\Visual Studio 2015\Projects\sportScienceAcademySW\sportScienceAcademySoftware\obj\Debug\sportScienceAcademySoftware.splash.resources
+C:\Users\sebahadin\Documents\Visual Studio 2015\Projects\sportScienceAcademySW\sportScienceAcademySoftware\obj\Debug\sportScienceAcademySoftware.Properties.Resources.resources
+C:\Users\sebahadin\Documents\Visual Studio 2015\Projects\sportScienceAcademySW\sportScienceAcademySoftware\obj\Debug\sportScienceAcademySoftware.csproj.GenerateResource.Cache
+C:\Users\sebahadin\Documents\Visual Studio 2015\Projects\sportScienceAcademySW\sportScienceAcademySoftware\bin\Debug\Aspose.Cells.GridDesktop.dll
+C:\Users\sebahadin\Documents\Visual Studio 2015\Projects\sportScienceAcademySW\sportScienceAcademySoftware\bin\Debug\Aspose.Cells.GridDesktop.xml
+C:\Users\sebahadin\Documents\Visual Studio 2015\Projects\sportScienceAcademySW\sportScienceAcademySoftware\bin\Debug\stdole.dll
